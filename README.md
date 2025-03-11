@@ -93,5 +93,5 @@ Accounts: X Developer Portal (API keys), code editor (e.g., VS Code).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/81d3900c-e7f0-43d9-9d28-5d8cc9c00ee4)
+Full Development Plan : https://www.notion.so/VibeSphere-1b3c2b52582c8079ba60d02bb65f5db1?pvs=4
 
